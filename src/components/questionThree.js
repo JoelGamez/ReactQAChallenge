@@ -12,7 +12,7 @@ class QuestionThree extends Component {
   render() {
     return (
       <div className='container'> 
-        <h3 Style={'text-align:center;'}>Describe your pefect day</h3>
+        <h3 Style={'text-align:center;'}>Explain why you think software has bugs.</h3>
         <p Style={'text-align:center;'}>Bugs can occur for various reasons. From my personal experience, and research I know that bugs can occur when</p>
         <div Style={'text-align: left;'}>            
             <ul>

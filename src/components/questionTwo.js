@@ -48,7 +48,7 @@ class QuestionTwo extends Component {
                     There will be a value box named “Qty”  meaning quantity. You may click on the box and select the number of orders of this product you desire. 
                 </li>
                 <li>
-                    Next to the description you will find a shopping-cart icon    with a link, “Add to Cart.” Above the icon you will notice the following information:
+                    Next to the description you will find a shopping-cart icon with a link, “Add to Cart.” Above the icon you will notice the following information:
                     <ul>
                         <li>
                             item price
@@ -91,7 +91,7 @@ class QuestionTwo extends Component {
                     </ul>
                 </li>
                 <li>
-                    Next you will be redirected to a page requesting your shipping & address information with the follow input fields.
+                    Next you will be redirected to a page requesting your shipping & address information with the following input fields.
                     <ul>
                         <li>
                             Full Name
