@@ -12,11 +12,9 @@ class TestTwo extends Component {
   render() {
     return (
       <div> 
-        <h3>Test Two</h3>
-        
+        <h3>Test Two</h3>        
         <table className='Table table-bordered' >
-            <tbody>
-          
+            <tbody>          
                 <tr>
                     <th>Project Name:</th>
                     <td align="left">Digital Jukebox</td>

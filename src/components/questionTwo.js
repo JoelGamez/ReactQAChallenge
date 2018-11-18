@@ -10,7 +10,7 @@ class QuestionTwo extends Component {
       <div className='container'> 
         
         <h3 Style={'text-align:center;'}> 
-            Explain how to purchase socks on Amazon.com to someone who has never used the website before.
+            Explain how to purchase socks on Amazon.com to someone who has never used the website before
         </h3>
 
         <div Style={'text-align: left;'}>
