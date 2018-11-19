@@ -60,7 +60,7 @@ class TestOne extends Component {
                     <td>User should see the album’s song-list</td>
                     <td>User can view album song-list</td>
                     <td>Pass</td>
-                    <td></td>
+                    <td>The additional details need would benefit from better styling</td>
                     
                 </tr>
                 <tr>
@@ -69,7 +69,7 @@ class TestOne extends Component {
                     <td>User should see the song name</td>
                     <td>User can view each song name</td>
                     <td>Pass</td>
-                    <td></td>
+                    <td>The song name should be a link to play the audio file</td>
                     
                 </tr>
                 <tr>
@@ -78,7 +78,7 @@ class TestOne extends Component {
                     <td>User should see the track number next songs within the list</td>
                     <td>User can view each track number</td>
                     <td>Pass</td>
-                    <td> </td>
+                    <td>The track number renders as it should</td>
                     
                 </tr>
                 <tr>
@@ -105,7 +105,7 @@ class TestOne extends Component {
                     <td>User should see the duration per song</td>
                     <td>User can view the song duration for each track</td>
                     <td>Pass</td>
-                    <td></td>
+                    <td>The song duration renders as it should</td>
                     
                 </tr>
                 <tr>
@@ -114,7 +114,7 @@ class TestOne extends Component {
                     <td>User should see a link to share the music they are listening too</td>
                     <td>User is not presented with a link to share music</td>
                     <td>Fail</td>
-                    <td></td>                    
+                    <td>There is no rendered link with social sharing options</td>                    
                 </tr>
                                
             </tbody>

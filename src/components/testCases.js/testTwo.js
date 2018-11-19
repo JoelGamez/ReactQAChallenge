@@ -57,7 +57,7 @@ class TestTwo extends Component {
                     <td>User should be able to scroll left by clicking on the left arrow</td>
                     <td>User can scroll left by clicking on the left arrow</td>
                     <td>Pass</td>
-                    <td></td>
+                    <td>The scroll left arrow  would improve with better styling</td>
                     
                 </tr>
                 <tr>
@@ -66,7 +66,7 @@ class TestTwo extends Component {
                     <td>User should be able to scroll right by clicking on the right arrow</td>
                     <td>User can scroll right by clicking on the right arrow</td>
                     <td>Pass</td>
-                    <td></td>
+                    <td>The scroll right arrow  would improve with better styling</td>
                     
                 </tr>
                 <tr>
