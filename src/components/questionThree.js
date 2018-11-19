@@ -13,7 +13,7 @@ class QuestionThree extends Component {
     return (
       <div className='container'> 
         <h3 Style={'text-align:center;'}>Explain why you think software has bugs</h3>
-        <p Style={'text-align:center;'}>Bugs can occur for various reasons. From my personal experience and research I know that bugs can occur when</p>
+        <p Style={'text-align:center;'}>Bugs can cause core functions of any application/product to malfunction and cost companies valuable time and money. They can occur for various reasons. From my personal experience and research I know that bugs can occur when</p>
         <div Style={'text-align: left;'}>            
             <ul>
                 <li>
@@ -49,6 +49,8 @@ class QuestionThree extends Component {
                     </ul>
                 </li>
             </ul>  
+            <p>Quality Assurance can prevent the loss of hundreds of thousands of dollars. This is why QA is critical in the software development life-cycle. </p>
+
         </div>       
       </div>
     );
