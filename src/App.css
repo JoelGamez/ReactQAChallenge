@@ -59,13 +59,15 @@ height: 75x;
   max-width: 100% !important;
   font-family: 'Montserrat', sans-serif;
   overflow-x:auto;
+  margin-top: -22px;
+
 
 }
 
 body{
   color:white;
+  background-image: url('http://www.pamiconference.com/wp-content/uploads/2017/03/PAMI_t%C5%82o_1.jpg?id=4689')
   
- 
 }
 
 table{
