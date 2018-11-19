@@ -39,7 +39,7 @@ class QuestionTwo extends Component {
                     Each result item will be displayed with a graphic presentation of the product, price, and review stars (the more stars filled in yellow the better the average customer reviews are).
                 </li>
                 <li>
-                    As you scroll through the results, select an item that you are interested in purchasing. For this example, we will use this specific sock result, http://a.co/d/1mlFefj. Click on this link to inspect the sock item.
+                    As you scroll through the results select an item that you are interested in purchasing. For this example, we will use this specific sock result, http://a.co/d/1mlFefj. Click on this link to inspect the sock item.
                 </li>
                 <li>
                     To the left of the item show page you will notice an image gallery for the item; click on different images to view them larger. On the right you may notice descriptions referring to material, design, and purchase information.
