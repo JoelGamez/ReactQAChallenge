@@ -29,7 +29,7 @@ class QuestionTwo extends Component {
                     
                 </li>
                 <li>
-                    At the top of the Amazon homepage you be presented with  a search bar with a search icon.                      
+                    At the top of the Amazon homepage you will be presented with  a search bar with a search icon.                      
                 </li>
                 <li>
                     Enter the value “socks” into the search field, and click the search icon or press the enter key. The website will then redirect to a page with results based on your search term “socks.”
@@ -39,7 +39,7 @@ class QuestionTwo extends Component {
                     Each result item will be displayed with a graphic presentation of the product, price, and review stars (the more stars filled in yellow the better the average customer reviews are).
                 </li>
                 <li>
-                    As you scroll through the results select an item that you are interested in purchasing. For this example, we will use this specific sock result, http://a.co/d/1mlFefj. Click on this link to inspect the sock item.
+                    As you scroll through the results select an item that you are interested in purchasing. For this example, we will use this specific sock item, http://a.co/d/1mlFefj. Click on this link to inspect the sock item.
                 </li>
                 <li>
                     To the left of the item show page you will notice an image gallery for the item; click on different images to view them larger. On the right you may notice descriptions referring to material, design, and purchase information.
@@ -71,7 +71,7 @@ class QuestionTwo extends Component {
                     </ul>
                 </li> 
                 <li>
-                    If them item is available, click on the “Add to Cart”  link. Your shopping cart is a collection of items that you want to add to your next order. When you click “Add to Cart”, the item is added to your collection of items in your potential order, and the page redirect to a new page verifying your cart addition. You will see a cart subtotal, and a link to view your cart or proceed to checkout. Click on “Proceed to checkout.”
+                    If them item is available, click on the “Add to Cart”  link. Your shopping cart is a collection of items that you want to add to your next order. When you click “Add to Cart”, the item will add to your collection of items in your potential order, and the website will redirect to a new page verifying your cart addition. You will see a cart subtotal, and a link to view your cart or proceed to checkout. Click on “Proceed to checkout.”
                 </li>
                 <li>
                     The new page will prompt you to sign-in, but as you do not have an account you must create an Amazon account. Click on the “Create your Amazon Account” link. You will register with input into the following fields.
