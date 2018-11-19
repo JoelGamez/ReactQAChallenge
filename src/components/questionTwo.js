@@ -45,7 +45,7 @@ class QuestionTwo extends Component {
                     To the left of the item show page you will notice an image gallery for the item; click on different images to view them larger. On the right you may notice descriptions referring to material, design, and purchase information.
                 </li>
                 <li>
-                    There will be a value box named “Qty”  meaning quantity. You may click on the box and select the number of orders of this product you desire. 
+                    There will be a quantity box named “Qty.” You may click on the box and select the number of orders of this product you desire. 
                 </li>
                 <li>
                     Next to the description you will find a shopping-cart icon with a link, “Add to Cart.” Above the icon you will notice the following information:
@@ -69,10 +69,10 @@ class QuestionTwo extends Component {
                             availability status: available or out of stock.     
                         </li>
                     </ul>
-                </li> 
-                <li>
                     If them item is available, click on the “Add to Cart”  link. Your shopping cart is a collection of items that you want to add to your next order. When you click “Add to Cart”, the item will add to your collection of items in your potential order, and the website will redirect to a new page verifying your cart addition. You will see a cart subtotal, and a link to view your cart or proceed to checkout. Click on “Proceed to checkout.”
-                </li>
+
+                </li> 
+               
                 <li>
                     The new page will prompt you to sign-in, but as you do not have an account you must create an Amazon account. Click on the “Create your Amazon Account” link. You will register with input into the following fields.
                     <ul>
