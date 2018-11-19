@@ -17,7 +17,7 @@ class QuestionTwo extends Component {
             <h5 Style={'text-align:left;'}>Title: How to purchase socks through Amazon.com</h5>
             <span>
                 <strong>Description: </strong>
-                With an established Internet access this is how a user can use an Internet browser to purchase socks on Amazon.com.
+                With established Internet access this is how a user can use an Internet browser to purchase socks on Amazon.com.
             </span>
             <ol>
                 <li>
