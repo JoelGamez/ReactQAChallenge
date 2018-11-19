@@ -20,7 +20,7 @@ The day would commence with rising rested and prepared for challenges ahead. Nob
 
 Companies are realizing the effectiveness of agile methodologies; ideally, that morning would consist of stand-ups for my team to discuss and  brainstorm progress, and analyze our productivity. 
 
-The day would continue with completing tasks, finding bugs, and verifying that current projects are meeting all requirements. While we are not capable of managing the circumstances we face within our career, we have a choice in how we manage our response to trials. Some may find challenging tasks daunting, however, I thrive in settings that push my limits and cause professional growth.
+The day would continue with completing tasks, finding bugs, and verifying that current projects are meeting all requirements. While we are not capable of managing the circumstances we face within our career, we have a choice in how we manage our response to trials. Some may find challenging tasks daunting, however, I thrive in settings that push my limits and promote professional growth.
 
 As the day ends, nothing would be more gratifying than knowing that expanded my professional skill-set, accomplished my goals, and was able to take on future tasks earlier than planned."
 
