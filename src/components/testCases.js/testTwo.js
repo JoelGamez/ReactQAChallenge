@@ -75,7 +75,7 @@ class TestTwo extends Component {
                     <td>User should see the new album with additional details when selected</td>
                     <td>User can see the new album with additional details when selected</td>
                     <td>Pass</td>
-                    <td> </td>
+                    <td>The additional details would benefit from improved styling</td>
                     
                 </tr>
                 <tr>
