@@ -4,6 +4,7 @@ import QuestionTwo from './questionTwo';
 import QuestionThree from './questionThree';
 import QuestionFour from './questionFour';
 import QuestionFive from './questionFive';
+import $ from 'jquery';
 
 
 class Header extends Component {
@@ -19,7 +20,25 @@ class Header extends Component {
   
   }
 
-  
+componentDidMount(){
+  $(document).ready(function(){
+ 
+    var i = 0;
+    var txt = 'QAforQA';
+    var speed = 75;
+
+    function typeWriter() {
+      if (i < txt.length) {
+        document.getElementById("logo").innerHTML += txt.charAt(i);
+        i++;
+        setTimeout(typeWriter, speed);
+      }
+    }
+    typeWriter();
+  });
+
+}
+
 
 
 
@@ -31,7 +50,7 @@ class Header extends Component {
     <div>      
         <header>   
           <nav className="navbar navbar-expand-lg navbar-light bg-light ">
-            <span id="logo">QAforQA</span>
+            <span id="logo"></span>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
