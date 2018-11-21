@@ -4,7 +4,7 @@ import QuestionTwo from './questionTwo';
 import QuestionThree from './questionThree';
 import QuestionFour from './questionFour';
 import QuestionFive from './questionFive';
-import $ from 'jquery';
+// import $ from 'jquery';
 
 
 class Header extends Component {
@@ -21,21 +21,6 @@ class Header extends Component {
   }
 
 componentDidMount(){
-  $(document).ready(function(){
- 
-    var i = 0;
-    var txt = 'QAforQA';
-    var speed = 75;
-
-    function typeWriter() {
-      if (i < txt.length) {
-        document.getElementById("logo").innerHTML += txt.charAt(i);
-        i++;
-        setTimeout(typeWriter, speed);
-      }
-    }
-    typeWriter();
-  });
 
 }
 
