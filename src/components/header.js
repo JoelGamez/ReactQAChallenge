@@ -35,7 +35,7 @@ componentDidMount(){
     <div>      
         <header>   
           <nav className="navbar navbar-expand-lg navbar-light bg-light ">
-            <span id="logo"></span>
+            <span id="logo">QAforQA</span>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
