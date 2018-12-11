@@ -2,11 +2,14 @@ import React, { Component } from 'react';
 
 
 import '../App.css';
+import {answerTwo} from '../answers/answer2'
+
 
 class QuestionTwo extends Component {
 
   render() {
     return (
+        <h5>{answerTwo}</h5>
       <div className='container'> 
         
         <h3 Style={'text-align:center;'}> 
